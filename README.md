@@ -1,4 +1,4 @@
-# 🛒 Simple Order Management System
+# 🛒 Order Management System
 
 This is a simple order management system. It simulates an ordering system for a pizza outlet with role-based access and basic inventory management.
 
